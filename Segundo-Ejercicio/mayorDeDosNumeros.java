@@ -12,9 +12,12 @@ public class mayorDeDosNumeros {
         int num1 = 85;
         int num2 = 81;
         
+        //Identificamos el mayor
         if (num1>num2){
             System.out.println("El mayor es: " + num1);
         }
+        
+        //Mostramos el menor 
         else{
             System.out.println("El menor es: " + num2);
         }
