@@ -1,5 +1,10 @@
 {
-    "java.project.sourcePaths": ["Primer-Ejercicio"],
+    "java.project.sourcePaths": [
+        "01Primer-EJercicio",
+        "02Segundo-Ejercicio",
+        "03Tercer-Ejercicio",
+        "04Cuarto-Ejercicio"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
