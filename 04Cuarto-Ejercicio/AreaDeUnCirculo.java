@@ -1,5 +1,5 @@
 /*
-5) Haz una aplicación que calcule el área de un círculo(pi*R2). 
+4) Haz una aplicación que calcule el área de un círculo(pi*R2). 
 El radio se pedirá por teclado. Usa la constante PI y el método 
 pow de Math.
 */
@@ -17,7 +17,7 @@ public class AreaDeUnCirculo {
         double Radio = sc.nextDouble();
         
         //Resuelve y muestra el resultado de la operacion
-        System.out.println("El area del circulo es de: " + (Math.pi * Math.pow(Radio , 2)));
+        System.out.println("El area del circulo es de: " + (Math.PI * Math.pow(Radio , 2)));
 
         sc.close();
     }
